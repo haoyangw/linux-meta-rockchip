@@ -1,3 +1,9 @@
+linux-meta-rockchip (6.1.0.1004.4) noble; urgency=medium
+
+  * New release to match kernel ABI 1004
+
+ -- Wang Haoyang <haoyangw@gmail.com>  Sat, 26 Jul 2025 11:13:59 +0800
+
 linux-meta-rockchip (6.1.0.1003.3) noble; urgency=medium
 
   * New release to match kernel ABI 1003
